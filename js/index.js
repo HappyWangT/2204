@@ -1,4 +1,5 @@
 // 创建类
+console.log(111);
 class Problem {
     //注意： 构造方法，实例化类的时候自动调用
     constructor() {
